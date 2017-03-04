@@ -1,0 +1,10 @@
+{
+  "name": "boost-iostreams",
+  "dependencies": {
+    "boost-config": "1.63.0",
+    "boost-throw-exception": "1.63.0",
+    "boost-mpl": "1.63.0",
+    "boost-preprocessor": "1.63.0",
+    "boost-range": "1.63.0"
+  }
+}
