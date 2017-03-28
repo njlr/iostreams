@@ -1,7 +1,7 @@
 include_defs('//BUCKAROO_DEPS')
 
 cxx_library(
-  name = 'boost-iostreams',
+  name = 'iostreams',
   header_namespace = 'boost/iostreams',
   exported_headers = subdir_glob([
     ('include/boost/iostreams', '**/*.hpp'),
